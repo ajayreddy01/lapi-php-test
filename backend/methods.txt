@@ -1,0 +1,16 @@
+users{
+    Signup
+    Login
+    reser Passcode
+    unique Mail
+    unique referal Code
+    Edit Profile
+    Verification
+}
+wallet{
+    deduct amount
+    credit amount
+}
+refreals{
+
+}
